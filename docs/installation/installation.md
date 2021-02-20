@@ -95,7 +95,7 @@ won't be able to log into the backend.</p>
 Start PHP's built-in webserver by running:
 
 ```bash
-bin/console server:start
+bin/console server:run
 ```
 
 After it runs, you will see a message similar to this:
